@@ -4,6 +4,13 @@
 
 ## [Unreleased]
 
+## [0.1.1]
+
+### Fixed
+
+- Review/star CTA now links to this plugin's own Marketplace
+  reviews page instead of the vendor's generic plugin list.
+
 ## [0.1.0]
 
 ### Added
@@ -19,5 +26,6 @@
   permanent "Don't ask again" option. Standard mechanism used
   catalog-wide since 2026-08-24.
 
-[Unreleased]: https://github.com/GapHunterLabs/trycatch-consistency-companion/compare/0.1.0...HEAD
+[Unreleased]: https://github.com/GapHunterLabs/trycatch-consistency-companion/compare/0.1.1...HEAD
+[0.1.1]: https://github.com/GapHunterLabs/trycatch-consistency-companion/compare/0.1.0...0.1.1
 [0.1.0]: https://github.com/GapHunterLabs/trycatch-consistency-companion/commits/0.1.0
